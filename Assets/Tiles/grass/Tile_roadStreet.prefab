@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3746871509882529609
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4215049244974164993, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215049244974164993, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215049244974164993, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215049244974164993, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215049244974164993, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215049244974164993, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215049244974164993, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215049244974164994, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_Name
+      value: Tile_roadStreet
+      objectReference: {fileID: 0}
+    - target: {fileID: 4312326329298384953, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6091410438447191747, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6917666038385506565, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -2432090755550338912, guid: e618ab8e55a3ed942a408f4d1b7f896e, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 94f4bd32e43315d42b3359b8bd47bfa9, type: 3}
